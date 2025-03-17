@@ -12,26 +12,18 @@
 
 - 🌐 &nbsp;
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,node.js,php,py," />
-  </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,nodejs,php,py)](https://skillicons.dev)
 
 - 🛢 &nbsp;
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 - ⚙️ &nbsp;
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,," />
+    <img src="https://skillicons.dev/icons?i=git,github," />
   </a>
 </p>
 
