@@ -13,7 +13,7 @@
 - 🌐 &nbsp;
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,nodejs,php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,cpp,nodejs,php,py)](https://skillicons.dev)
 
 - 🛢 &nbsp;
 
@@ -21,12 +21,7 @@
 
 - ⚙️ &nbsp;
   
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github," />
-  </a>
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=git,github,)](https://skillicons.dev)
 
 - 🔧 &nbsp;
 
