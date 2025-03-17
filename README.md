@@ -11,21 +11,33 @@
 <h3> 🛠 &nbsp;Tecnologías conocidas</h3>
 
 - 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  [![Python](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
-  [![SCSS](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,node.js,php,py," />
+  </a>
+</p>
+
 - 🛢 &nbsp;
-  [![SQL](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
+
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,," />
+  </a>
+</p>
+
 
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
 
 
 <p>
