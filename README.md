@@ -1,6 +1,6 @@
- ### Hi 👋
+ ### 
 
-<h2>Hola soy Cristobal.</h2>
+<h2>Hi 👋 Cristobal.</h2>
 
 <h3> 💻 &nbsp;Sobre mí </h3>
 
