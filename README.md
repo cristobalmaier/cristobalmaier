@@ -10,5 +10,5 @@
 ## 🎯 Próximos Pasos y Contacto
 
 🔗 **Conéctate conmigo:**
-* **LinkedIn:** [https://www.linkedin.com/in/cristobal-maier-3b5864356/]
-* **Email:** [cristobalmaier1@gmail.com]
+* **LinkedIn:** [https://www.linkedin.com/in/cristobal-maier-3b5864356/](https://www.linkedin.com/in/cristobal-maier/)
+* **Email:** cristobalmaier1@gmail.com
