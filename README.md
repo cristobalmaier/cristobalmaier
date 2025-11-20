@@ -1,6 +1,6 @@
 👋 Hola, soy Cristobal Maier
 
-**Técnico en Programación | Aspirante a Analista de Ciberseguridad** 🛡️
+**Técnico en Programación | Estudiante de Ciberseguridad** 🛡️
 
 
 # 🛡️ Habilidades Técnicas & Base de Programación:
