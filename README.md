@@ -1,6 +1,7 @@
 👋 Hola, soy Cristobal Maier
 
-**Técnico en Programación | Estudiante de Ciberseguridad** 🛡️
+
+Técnico en Programación  | Estudiante de Lic. en Ciberseguridad en Universidad de Palermo  🛡️ 
 
 
 # 🛡️ Habilidades Técnicas & Base de Programación:
