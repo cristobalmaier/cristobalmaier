@@ -1,15 +1,87 @@
-👋 Hola, soy Cristobal Maier
+# 👋 Hola, soy Cristobal Maier
 
+🛡️ **Estudiante de Licenciatura en Ciberseguridad | Técnico en Programación**  
+🔐 Enfocado en **Seguridad Ofensiva, Pentesting y Análisis de Vulnerabilidades**  
+📍 Buenos Aires, Argentina  
 
-Técnico en Programación  | Estudiante de Lic. en Ciberseguridad en Universidad de Palermo  🛡️ 
+---
 
+# 🧠 Perfil Profesional
 
-# 🛡️ Habilidades Técnicas & Base de Programación:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+Apasionado por la ciberseguridad con experiencia en **soporte IT corporativo (Siemens Energy)** y práctica real en **laboratorios de hacking ético**.
 
+Actualmente desarrollo habilidades en:
 
-## 🎯 Próximos Pasos y Contacto
+- Enumeración y reconocimiento de servicios
+- Explotación de vulnerabilidades en entornos controlados
+- Escalada de privilegios en sistemas Linux
+- Documentación técnica de hallazgos y mitigaciones
 
-🔗 **Conéctate conmigo:**
-* **LinkedIn:** https://www.linkedin.com/in/cristobal-maier/
-* **Email:** cristobalmaier1@gmail.com
+🎯 Objetivo: **obtener mi primera oportunidad en ciberseguridad (SOC / Pentester Junior)** y evolucionar hacia **Red Team**.
+
+---
+
+# ⚔️ Offensive Security Labs
+
+### Técnicas practicadas
+- Escaneo y enumeración con **Nmap** y **Gobuster**
+- Ataques de fuerza bruta con **Hydra**
+- Explotación con **Metasploit**
+- Análisis de metadatos con **ExifTool**
+- Escalada de privilegios:
+  - **Sudo misconfigurations**
+  - **SUID binaries**
+  - **Credenciales débiles**
+
+📚 Documentación completa en los write-ups del repositorio.
+
+---
+
+# 🏢 Experiencia IT
+
+**Siemens Energy – IT Support Trainee**  
+- Soporte técnico nivel 1 en entorno corporativo Windows 10/11  
+- Diagnóstico y resolución de incidentes de hardware/software  
+- Instalación, configuración y mantenimiento de equipos  
+- Aplicación de buenas prácticas de seguridad y continuidad operativa  
+
+---
+
+# 🛠️ Stack Técnico
+
+## 🔐 Ciberseguridad
+`Nmap` `Gobuster` `Hydra` `Metasploit` `Linux` `SSH` `Privilege Escalation`
+
+## 💻 Programación & Web
+`Python` `JavaScript` `HTML` `CSS` `SQL` `Node.js`
+
+## ⚙️ Herramientas
+`Git` `GitHub` `Apache` `MySQL` `SQLite` `Linux`
+
+---
+
+# 📜 Certificaciones
+
+- Practical Security Fundamentals – TCM Security  
+- Networking Basics – Cisco  
+- Linux Unhatched – Cisco  
+- Certified Phishing Prevention Specialist (CPPS)  
+- Introducción a ISO 27001  
+
+---
+
+# 🚀 Actualmente
+
+- Resolviendo máquinas vulnerables en **DockerLabs**
+- Mejorando **inglés para ciberseguridad**
+- Construyendo **portfolio de pentesting documentado**
+
+---
+
+# 📫 Contacto
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/cristobal-maier/
+
+📧 Email:  
+cristobalmaier1@gmail.com
