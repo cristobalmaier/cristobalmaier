@@ -37,16 +37,6 @@ Actualmente desarrollo habilidades en:
 
 ---
 
-# 🏢 Experiencia IT
-
-**Siemens Energy – IT Support Trainee**  
-- Soporte técnico nivel 1 en entorno corporativo Windows 10/11  
-- Diagnóstico y resolución de incidentes de hardware/software  
-- Instalación, configuración y mantenimiento de equipos  
-- Aplicación de buenas prácticas de seguridad y continuidad operativa  
-
----
-
 # 🛠️ Stack Técnico
 
 ## 🔐 Ciberseguridad
@@ -67,14 +57,6 @@ Actualmente desarrollo habilidades en:
 - Linux Unhatched – Cisco  
 - Certified Phishing Prevention Specialist (CPPS)  
 - Introducción a ISO 27001  
-
----
-
-# 🚀 Actualmente
-
-- Resolviendo máquinas vulnerables en **DockerLabs**
-- Mejorando **inglés para ciberseguridad**
-- Construyendo **portfolio de pentesting documentado**
 
 ---
 
