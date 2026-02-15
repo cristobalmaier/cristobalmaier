@@ -8,21 +8,21 @@
 
 # 🛠️ Stack Técnico
 
-## 🔐 Ciberseguridad
+🔐 Ciberseguridad
 `Nmap` `Gobuster` `Hydra` `Metasploit` `Linux` `SSH` `Privilege Escalation`
 
-## 💻 Programación & Web
+💻 Programación & Web
 `Python` `JavaScript` `HTML` `CSS` `SQL` `Node.js`
 
-## ⚙️ Herramientas
+⚙️ Herramientas
 `Git` `GitHub` `Apache` `MySQL` `SQLite` `Linux`
 
 ---
 
 # 📫 Contacto
 
-## LinkedIn:  
+LinkedIn:  
 https://www.linkedin.com/in/cristobal-maier/
 
-## Email:  
+Email:  
 cristobalmaier1@gmail.com
