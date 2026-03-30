@@ -6,19 +6,6 @@
 
 ---
 
-# 🛠️ Stack Técnico
-
-🔐 Ciberseguridad
-`Nmap` `Gobuster` `Hydra` `Metasploit` `Linux` `SSH` `Privilege Escalation`
-
-💻 Programación & Web
-`Python` `JavaScript` `HTML` `CSS` `SQL` `Node.js`
-
-⚙️ Herramientas
-`Git` `GitHub` `Apache` `MySQL` `SQLite` `Linux`
-
----
-
 # 📫 Contacto
 
 LinkedIn:  
