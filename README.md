@@ -1,12 +1,11 @@
-## 👋 Hola, soy Cristobal Maier
+## 👋 Hi, I'm Cristobal Maier
 
-🛡️ **Estudiante de Licenciatura en Ciberseguridad | Técnico en Programación**  
-🔐 Enfocado en **Seguridad Ofensiva, Pentesting y Análisis de Vulnerabilidades**  
-📍 Buenos Aires, Argentina  
-
+🛡️ Bachelor’s Degree Student in Cybersecurity | Programming Technician
+🔐 Focused on Offensive Security, Pentesting, and Vulnerability Analysis
+📍 Buenos Aires, Argentina
 ---
 
-# 📫 Contacto
+# 📫 Contact
 
 LinkedIn:  
 https://www.linkedin.com/in/cristobal-maier/
