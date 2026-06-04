@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Cristobal Maier
 
-🛡️ Bachelor’s Degree Student in Cybersecurity | Programming Technician
-🔐 Interesting on Offensive Security, Pentesting, and Vulnerability Analysis
-📍 Argentina
+- 🛡️ Bachelor’s Degree Student in Cybersecurity | Programming Technician
+- 🔐 Interesting on Offensive Security, Pentesting, and Vulnerability Analysis
+- 📍 Argentina
 ---
 
 # 📫 Contact
