@@ -5,8 +5,6 @@
 
 - Offensive Security
 - Pentesting
-- Linux
-- Productivity
 
 # Contact
   
