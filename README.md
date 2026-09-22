@@ -1,12 +1,8 @@
-- Programming Technician
-- Cybersecurity Student
+I am Programming Technician & Cybersecurity Student
 
-# Interests
+i like Offensive Security and Pentesting
 
-- Offensive Security
-- Pentesting
-
-# Contact
+### Links
   
 - https://www.linkedin.com/in/cristobal-maier/
 
