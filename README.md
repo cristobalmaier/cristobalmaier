@@ -1,11 +1,11 @@
 # Cristobal Maier
 
-Programming Technician & Cybersecurity Student
+- Programming Technician & Cybersecurity Student
 
-i like Offensive Security and Pentesting
+- i like Offensive Security and Pentesting
 
 ### Links
   
-[Linkedin](https://www.linkedin.com/in/cristobal-maier/)
+- [Linkedin](https://www.linkedin.com/in/cristobal-maier/)
 
-[Gmail](cristobalmaier1@gmail.com)
+- [Gmail](cristobalmaier1@gmail.com)
